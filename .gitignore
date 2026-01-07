@@ -1,2 +1,3 @@
-/.env
-/requirements.txt
+/NEL
+.env
+backend/.env
