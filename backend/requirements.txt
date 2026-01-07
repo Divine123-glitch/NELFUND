@@ -1,0 +1,32 @@
+# Core AI/ML Libraries
+numpy==2.3.5
+
+# LangChain & LangGraph
+langchain==0.3.15
+langchain-community==0.3.15
+langchain-openai==0.2.14
+langchain-core==0.3.38
+langgraph==0.2.59
+
+# Vector Database
+chromadb==0.5.23
+
+# PDF Processing
+pypdf==5.1.0
+
+# OpenAI
+openai==1.59.7
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Additional Dependencies (needed by above packages)
+pydantic==2.10.5
+pydantic-settings==2.7.1
+tiktoken==0.8.0
+tenacity==9.0.0
+
+# FastAPI & Server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.5
