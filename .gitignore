@@ -1,5 +1,11 @@
 /NEL
 .env
+/data
+/chroma_db
+/chats.db
 backend/.env
 backend/.env
 backend/NEL
+backend/data
+backend/chroma_db
+backend/chats.db
